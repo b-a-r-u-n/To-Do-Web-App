@@ -1,8 +1,21 @@
-# React + Vite
+# To-Do Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and interactive To-Do Web App built with **React**, **Tailwind CSS**, and **Redux Toolkit**. The app allows users to manage their tasks efficiently by adding, editing, and deleting to-do items. It utilizes Redux Toolkit for state management, ensuring a smooth and scalable experience as the app grows. Tailwind CSS is used for styling, offering a responsive and modern design.
 
-Currently, two official plugins are available:
+## Features
+- Add new tasks
+- Mark tasks as complete or incomplete
+- Delete tasks
+- Responsive design with Tailwind CSS
+- State management with Redux Toolkit
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- **React.js**: Frontend framework
+- **Tailwind CSS**: Utility-first CSS framework
+- **Redux Toolkit**: State management solution
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/b-a-r-u-n/To-Do-Web-App.git
